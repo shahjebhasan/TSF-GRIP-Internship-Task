@@ -1,4 +1,4 @@
-# TSP-GRIP-Internship-Task
+# TSF-GRIP-Internship-Task
 This repository consist of the tasks given during internship at The Sparks Foundation on the topic Data Science and Business Analytics Internship Tasks.
 
 ## Task 2 - 
